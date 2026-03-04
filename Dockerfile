@@ -3,8 +3,8 @@ FROM fosrl/newt:latest
 
 # Hardcoded environment variables (as requested)
 ENV PANGOLIN_ENDPOINT=https://app.pangolin.net
-ENV NEWT_ID=2ix2t8xk22ubpfy
-ENV NEWT_SECRET=nnisrfsdfc7prqsp9ewo1dvtvci50j5uiqotez00dgap0ii2
+ENV NEWT_ID=svtrvw40mjd0j8h
+ENV NEWT_SECRET=9zmdsli6e2wyctii1hppimsijafuwv133cqbvdv29kqx151e
 
 # Expose the port Fly routes to
 EXPOSE 8080
